@@ -1,0 +1,1814 @@
+fileFormatVersion: 2
+guid: 58f765e5f3482449bb5f1d995a9f8cfd
+timeCreated: 1483062770
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Megaman_Simple_0
+    21300002: Megaman_Simple_1
+    21300004: Megaman_Simple_2
+    21300006: Megaman_Simple_3
+    21300008: Megaman_Simple_4
+    21300010: Megaman_Simple_5
+    21300012: Megaman_Simple_6
+    21300014: Megaman_Simple_7
+    21300016: Megaman_Simple_8
+    21300018: Megaman_Simple_9
+    21300020: Megaman_Simple_10
+    21300022: Megaman_Simple_11
+    21300024: Megaman_Simple_12
+    21300026: Megaman_Simple_13
+    21300028: Megaman_Simple_14
+    21300030: Megaman_Simple_15
+    21300032: Megaman_Simple_16
+    21300034: Megaman_Simple_17
+    21300036: Megaman_Simple_18
+    21300038: Megaman_Simple_19
+    21300040: Megaman_Simple_20
+    21300042: Megaman_Simple_21
+    21300044: Megaman_Simple_22
+    21300046: Megaman_Simple_23
+    21300048: Megaman_Simple_24
+    21300050: Megaman_Simple_25
+    21300052: Megaman_Simple_26
+    21300054: Megaman_Simple_27
+    21300056: Megaman_Simple_28
+    21300058: Megaman_Simple_29
+    21300060: Megaman_Simple_30
+    21300062: Megaman_Simple_31
+    21300064: Megaman_Simple_32
+    21300066: Megaman_Simple_33
+    21300068: Megaman_Simple_34
+    21300070: Megaman_Simple_35
+    21300072: Megaman_Simple_36
+    21300074: Megaman_Simple_37
+    21300076: Megaman_Simple_38
+    21300078: Megaman_Simple_39
+    21300080: Megaman_Simple_40
+    21300082: Megaman_Simple_41
+    21300084: Megaman_Simple_42
+    21300086: Megaman_Simple_43
+    21300088: Megaman_Simple_44
+    21300090: Megaman_Simple_45
+    21300092: Megaman_Simple_46
+    21300094: Megaman_Simple_47
+    21300096: Megaman_Simple_48
+    21300098: Megaman_Simple_49
+    21300100: Megaman_Simple_50
+    21300102: Megaman_Simple_51
+    21300104: Megaman_Simple_52
+    21300106: Megaman_Simple_53
+    21300108: Megaman_Simple_54
+    21300110: Megaman_Simple_55
+    21300112: Megaman_Simple_56
+    21300114: Megaman_Simple_57
+    21300116: Megaman_Simple_58
+    21300118: Megaman_Simple_59
+    21300120: Megaman_Simple_60
+    21300122: Megaman_Simple_61
+    21300124: Megaman_Simple_62
+    21300126: Megaman_Simple_63
+    21300128: Megaman_Simple_64
+    21300130: Megaman_Simple_65
+    21300132: Megaman_Simple_66
+    21300134: Megaman_Simple_67
+    21300136: Megaman_Simple_68
+    21300138: Megaman_Simple_69
+    21300140: Megaman_Simple_70
+    21300142: Megaman_Simple_71
+    21300144: Megaman_Simple_72
+    21300146: Megaman_Simple_73
+    21300148: Megaman_Simple_74
+    21300150: Megaman_Simple_75
+    21300152: Megaman_Simple_76
+    21300154: Megaman_Simple_77
+    21300156: Megaman_Simple_78
+    21300158: Megaman_Simple_79
+    21300160: Megaman_Simple_80
+    21300162: Megaman_Simple_81
+    21300164: Megaman_Simple_82
+    21300166: Megaman_Simple_83
+    21300168: Megaman_Simple_84
+    21300170: Megaman_Simple_85
+    21300172: Megaman_Simple_86
+    21300174: Megaman_Simple_87
+    21300176: Megaman_Simple_88
+    21300178: Megaman_Simple_89
+    21300180: Megaman_Simple_90
+    21300182: Megaman_Simple_91
+    21300184: Megaman_Simple_92
+    21300186: Megaman_Simple_93
+    21300188: Megaman_Simple_94
+    21300190: Megaman_Simple_95
+    21300192: Megaman_Simple_96
+    21300194: Megaman_Simple_97
+    21300196: Megaman_Simple_98
+    21300198: Megaman_Simple_99
+    21300200: Megaman_Simple_100
+    21300202: Megaman_Simple_101
+    21300204: Megaman_Simple_102
+    21300206: Megaman_Simple_103
+    21300208: Megaman_Simple_104
+    21300210: Megaman_Simple_105
+    21300212: Megaman_Simple_106
+    21300214: Megaman_Simple_107
+    21300216: Megaman_Simple_108
+    21300218: Megaman_Simple_109
+    21300220: Megaman_Simple_110
+    21300222: Megaman_Simple_111
+    21300224: Megaman_Simple_112
+    21300226: Megaman_Simple_113
+    21300228: Megaman_Simple_114
+    21300230: Megaman_Simple_115
+    21300232: Megaman_Simple_116
+    21300234: Megaman_Simple_117
+    21300236: Megaman_Simple_118
+    21300238: Megaman_Simple_119
+    21300240: Megaman_Simple_120
+    21300242: Megaman_Simple_121
+    21300244: Megaman_Simple_122
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 40
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Megaman_Simple_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 961
+        width: 8
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 961
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_2
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 961
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_3
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 961
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_4
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 961
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_5
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 961
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_6
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 961
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_7
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 961
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_8
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 961
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_9
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 961
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_10
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 961
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_11
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 961
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_12
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 961
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_13
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 923
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_14
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 923
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_15
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 922
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_16
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 922
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_17
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 923
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_18
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 923
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_19
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 923
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_20
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 922
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_21
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 923
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_22
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 923
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_23
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 923
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_24
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 883
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_25
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 882
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_26
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 882
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_27
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 883
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_28
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 883
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_29
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 883
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_30
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 882
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_31
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 883
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_32
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 883
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_33
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 883
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_34
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 839
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_35
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 835
+        width: 15
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_36
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 832
+        width: 19
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_37
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 833
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_38
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 832
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_39
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 835
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_40
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 839
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_41
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 839
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_42
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 835
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_43
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 832
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_44
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 833
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_45
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 832
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_46
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 835
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_47
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 839
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_48
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 785
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_49
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 785
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 786
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_51
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 786
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 785
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_53
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 785
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_54
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 785
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_55
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 786
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_56
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 786
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_57
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 785
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_58
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 785
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_59
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 785
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_60
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 721
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_61
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 714
+        width: 18
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_62
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 718
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_63
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 718
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_64
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 714
+        width: 18
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_65
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 715
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_66
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 711
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_67
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 716
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_68
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 723
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_69
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 723
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_70
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 723
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_71
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 723
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_72
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 723
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_73
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 723
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_74
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 700
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_75
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 700
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_76
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 700
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_77
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 700
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_78
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 700
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_79
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 700
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_80
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 658
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_81
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 657
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_82
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 658
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_83
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 657
+        width: 48
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_84
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 658
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_85
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 658
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_86
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 658
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_87
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 658
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_88
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 658
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_89
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 658
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_90
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 658
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_91
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 674
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_92
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 673
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_93
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 673
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_94
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 672
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_95
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 670
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_96
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 641
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_97
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 638
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_98
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 638
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_99
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 637
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_100
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 604
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_101
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 612
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_102
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 607
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_103
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 613
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_104
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 615
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_105
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 613
+        width: 38
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_106
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 608
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_107
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 613
+        width: 38
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_108
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 611
+        width: 40
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_109
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 612
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_110
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 607
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_111
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 611
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_112
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 607
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_113
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 611
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_114
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 608
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_115
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 607
+        width: 52
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_116
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 587
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_117
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 592
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_118
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 592
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_119
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 592
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_120
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 592
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_121
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 569
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Megaman_Simple_122
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 551
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
