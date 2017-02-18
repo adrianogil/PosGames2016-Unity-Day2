@@ -11,10 +11,16 @@ public class MegamanController : MonoBehaviour {
 	private float pixelToUnit = 40f;
 	public float maxVelocity = 10f; // pixels/seconds
 	public Vector3 moveSpeed = Vector3.zero; // (0,0,0)
+	public float jumpForce;
 
 	[Header("Animation")]
 	public bool isFacingLeft = false;
 	public bool isRunning = false;
+	public bool isGrounded = false;
+	public bool isFalling = false;
+	public bool setJumpTrigger = false;
+	public bool setFallTrigger = false;
+	public bool setLandTrigger = false;
 
 	[Header("Components")]
 	public Rigidbody2D rigidbody2D;
@@ -38,6 +44,27 @@ public class MegamanController : MonoBehaviour {
 
 	void UpdateAnimatorParameters() {
 		animator.SetBool ("isRunning", isRunning);
+
+		if (setJumpTrigger) {
+			animator.SetTrigger ("Jump");
+			setJumpTrigger = false;
+		} else {
+			animator.ResetTrigger ("Jump");
+		}
+
+		if (setFallTrigger) {
+			animator.SetTrigger ("Fall");
+			setFallTrigger = false;
+		} else {
+			animator.ResetTrigger ("Fall");
+		}
+
+		if (setLandTrigger) {
+			animator.SetTrigger ("Land");
+			setLandTrigger = false;
+		} else {
+			animator.ResetTrigger ("Land");
+		}
 	}
 
 	void HandleHorizontalMovement() {
@@ -45,11 +72,15 @@ public class MegamanController : MonoBehaviour {
 
 		if (RaycastAgainstLayer ("Ground", groundCheck)) {
 			// Acertou o chao
-		}
+			isGrounded = true;
 
-		if (moveSpeed.x != 0f) {
-			isRunning = true;
+			if (moveSpeed.x != 0f) {
+				isRunning = true;
+			} else {
+				isRunning = false;
+			}
 		} else {
+			isGrounded = false;
 			isRunning = false;
 		}
 
@@ -65,7 +96,30 @@ public class MegamanController : MonoBehaviour {
 	}
 
 	void HandleVerticalMovement() {
-		
+		moveSpeed.y = rigidbody2D.velocity.y;
+
+		if (isGrounded) {
+			// Esta no chao
+			if (isFalling) {
+				setLandTrigger = true;
+				isFalling = false;
+			} else if (Input.GetKeyDown (KeyCode.Space)) {
+				//  Faz o pulo
+				rigidbody2D.AddForce (Vector2.up * jumpForce);
+				setJumpTrigger = true;
+				isGrounded = false;
+			}
+
+		} else {
+			// Nao esta no chao
+			if (moveSpeed.y > 0f && Input.GetKeyUp(KeyCode.Space)) {
+				moveSpeed.y = 0f; // Para o pulo
+			}
+			if (moveSpeed.y < 0f && !isFalling) {
+				isFalling = true;
+				setFallTrigger = true;
+			}
+		}
 	}
 
 	void MoveCharacterController() {
